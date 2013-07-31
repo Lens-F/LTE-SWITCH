@@ -452,11 +452,11 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="network_mode_select_choices">
-        <item>LTE/CDMA</item>
-        <item>CDMA only</item>
+    <string-array name="preferred_lte_network_mode_choices">
+        <item>LTE/CDMA/EvDo</item>
+        <item>CDMA/EvDo auto</item>
     </string-array>
-    <string-array name="network_mode_select_values">
+    <string-array name="preferred_lte_network_mode_values">
         <item>8</item>
         <item>4</item>
     </string-array>
